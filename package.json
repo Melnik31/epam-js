@@ -1,0 +1,22 @@
+{
+  "name": "epam-course-project",
+  "version": "1.0.0",
+  "description": "Epam automated testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melnik31/epam-js.git"
+  },
+  "author": "Mikhail Melnikau mmelnik31@icloud.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melnik31/epam-js/issues"
+  },
+  "homepage": "https://github.com/Melnik31/epam-js#readme",
+  "devDependencies": {
+    "fs-extra": "^11.1.0"
+  }
+}
